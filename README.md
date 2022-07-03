@@ -1,2 +1,2 @@
 # LeetCode
-Solutions are being automatically updated by LeetHub
+Solutions are automatically and immediately updated by LeetHub
